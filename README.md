@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 🌱 I'm, a passionate software developer, learning devops.
+ 🌱 I'm, a passionate software developer, learning DevOps.
 
  </div>
  
